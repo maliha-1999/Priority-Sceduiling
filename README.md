@@ -16,6 +16,8 @@ To simulate the Priority Scheduling algorithm, the user is prompted to input the
 
 ### Example Input
 Enter Total Number of Processes: 4
+### Example Output is Shown Below:
+<img src="Priority Sceduilling Algorithm.PNG " alt="Round Robbin Diagram" style="max-width: 100%; height: auto;">
 
 Enter Burst Time and Priority for each process:
 P[1]
